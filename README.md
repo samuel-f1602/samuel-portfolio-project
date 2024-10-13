@@ -3,7 +3,7 @@
 Welcome to my portfolio! This project was created as part of my studies at **HackerU**. It showcases my skills in **HTML**, **CSS** through a collection of interactive and visually appealing projects. The portfolio is fully responsive and provides a smooth, user-friendly experience across all devices.
 
 ## 🔗 Live Demo
-You can view the live version of my portfolio [here] ().
+You can view the live version of my portfolio [here] (http://127.0.0.1:5501/index-project.html).
 
 ## 📂 Projects Included
 
